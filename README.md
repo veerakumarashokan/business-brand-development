@@ -1,49 +1,62 @@
-# Business & Brand Development
+# Saara Herbals
 
-This repository serves as a portfolio of business and brand development work, documenting the creation of brand identities, product designs, and supporting assets.
+Saara Herbals is a product-based herbal brand focused on developing natural soaps, personal care products, and a structured small-scale manufacturing system.
 
 ---
 
 ## Objective
 
-To document and showcase practical work in building business assets, including branding, product design, and visual identity systems.
+To build a complete herbal product brand including product development, production systems, branding, and sales-ready assets.
 
 ---
 
 ## Scope
 
-This repository includes:
+This project includes:
 
-- Brand identity development  
-- Product and packaging design  
-- Visual assets and systems  
-- Supporting business materials  
+- Brand identity design  
+- Product formulation and recipe development  
+- Batch production tracking and optimization  
+- Packaging and product design  
+- Pricing and dealer catalogue creation  
+- Visual design systems  
+- Documentation of production and brand processes  
 
 ---
 
 ## Structure
 
-- projects – Individual business and brand projects  
-
-Each project represents a complete or evolving business concept with its associated assets and design work.
+- assets/ – Visual assets and supporting files  
+- designs/ – Branding, packaging, and product designs  
+- production/ – Batch tracking, recipes, and production systems  
+- brand-report.md – Detailed documentation of brand and development process  
 
 ---
 
 ## Approach
 
-- Develop brand concepts from idea to identity  
-- Create consistent visual systems  
-- Design assets aligned with product and market  
-- Document the process and outputs  
+- Define brand concept and positioning  
+- Develop consistent visual identity  
+- Create and test product formulations  
+- Track batch production and optimize yield  
+- Design packaging and product assets  
+- Build pricing and sales materials  
+- Document all processes for scalability  
 
 ---
 
-## Purpose
+## Outcome
 
-To maintain a structured portfolio of business and brand development work.
+A structured herbal product brand with:
+
+- Defined product range  
+- Working production system  
+- Batch tracking and optimization  
+- Pricing and dealer-ready materials  
+- Documented brand and production processes  
 
 ---
 
-## Author
+## Status
 
-Veerakumar Ashokan
+Active development and production.
