@@ -1,15 +1,49 @@
-# Business Brand Development
+# Business & Brand Development
 
-This repository contains projects focused on building brand identity, product design, and visual systems for businesses.
-
----
-
-## Projects
-
-- saara-herbals → Soap brand design and packaging
+This repository serves as a portfolio of business and brand development work, documenting the creation of brand identities, product designs, and supporting assets.
 
 ---
 
 ## Objective
 
-To develop complete brand identities including logos, packaging, and marketing visuals for real-world businesses.
+To document and showcase practical work in building business assets, including branding, product design, and visual identity systems.
+
+---
+
+## Scope
+
+This repository includes:
+
+- Brand identity development  
+- Product and packaging design  
+- Visual assets and systems  
+- Supporting business materials  
+
+---
+
+## Structure
+
+- projects – Individual business and brand projects  
+
+Each project represents a complete or evolving business concept with its associated assets and design work.
+
+---
+
+## Approach
+
+- Develop brand concepts from idea to identity  
+- Create consistent visual systems  
+- Design assets aligned with product and market  
+- Document the process and outputs  
+
+---
+
+## Purpose
+
+To maintain a structured portfolio of business and brand development work.
+
+---
+
+## Author
+
+Veerakumar Ashokan
