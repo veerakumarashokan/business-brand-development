@@ -1,62 +1,52 @@
-# Saara Herbals
+# Business & Brand Development
 
-Saara Herbals is a product-based herbal brand focused on developing natural soaps, personal care products, and a structured small-scale manufacturing system.
+This repository serves as a portfolio of business and brand development work, documenting the creation of product-based businesses, brand systems, and operational frameworks.
 
 ---
 
 ## Objective
 
-To build a complete herbal product brand including product development, production systems, branding, and sales-ready assets.
+To build and document real-world business systems, including product development, branding, production processes, and sales-ready assets.
 
 ---
 
 ## Scope
 
-This project includes:
+This repository includes:
 
-- Brand identity design  
-- Product formulation and recipe development  
-- Batch production tracking and optimization  
+- Product-based business development  
+- Brand identity and visual systems  
+- Production workflows and process documentation  
 - Packaging and product design  
-- Pricing and dealer catalogue creation  
-- Visual design systems  
-- Documentation of production and brand processes  
+- Pricing models and sales materials  
+- End-to-end business structuring  
 
 ---
 
 ## Structure
 
-- assets/ – Visual assets and supporting files  
-- designs/ – Branding, packaging, and product designs  
-- production/ – Batch tracking, recipes, and production systems  
-- brand-report.md – Detailed documentation of brand and development process  
+- projects/ – Individual business and brand projects  
+
+Each project represents a complete or evolving business system, including its products, branding, and operational processes.
 
 ---
 
 ## Approach
 
-- Define brand concept and positioning  
-- Develop consistent visual identity  
-- Create and test product formulations  
-- Track batch production and optimize yield  
-- Design packaging and product assets  
-- Build pricing and sales materials  
-- Document all processes for scalability  
+- Develop business concepts into structured systems  
+- Build products and production workflows  
+- Design brand identity and packaging  
+- Create sales and distribution materials  
+- Document processes for scalability and consistency  
 
 ---
 
-## Outcome
+## Purpose
 
-A structured herbal product brand with:
-
-- Defined product range  
-- Working production system  
-- Batch tracking and optimization  
-- Pricing and dealer-ready materials  
-- Documented brand and production processes  
+To maintain a structured portfolio of real business development work and demonstrate practical execution beyond concept-level planning.
 
 ---
 
-## Status
+## Author
 
-Active development and production.
+Veerakumar Ashokan
